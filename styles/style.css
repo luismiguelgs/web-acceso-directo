@@ -1,0 +1,57 @@
+.hero-social-icons{
+    display: flex;
+    justify-content: flex-start;
+}
+.hero-social-icons a{
+    margin-right: 15px;
+}
+.texto-celeste{
+    text-transform:uppercase;
+    font-size: 1.1em;
+    color:#1cbbff;
+}
+.titulo-blanco{
+    color: white;
+}
+.parrafo-blanco{
+    color: white;
+}
+.services{
+    padding: 15px;
+}
+.boton-info{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 20vh;
+}
+.card{
+    margin: 10px 0;
+    color: white;
+}
+.card:hover{
+    background-color: #1cbbff;
+    color: white;
+}
+.color-celeste{
+    color:#1cbbff;
+}
+.footer-menu{
+    list-style: none;
+}
+.titulo-pagina{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 20vh;
+}
+.card-about{
+    border: 1px solid #1cbbff;
+}
+.about-image{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 110vh;
+}
